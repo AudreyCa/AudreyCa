@@ -5,4 +5,6 @@ Au programme de cette année : HTML/ CSS/ JAVASCRIPT/ ANGULAR/ NODE.JS/ EXPRESS.
 J'ai effectué mon stage de fin de formation en tout autonomie chez Alpix Photo pour qui j'ai développé une application qui permet d'automatiser le remplissage des documents administratifs.
 Je suis capable de travailler en full remote tout en gardant du contact avec l'entreprise à laquelle j'appartiens.
 
+Je suis à la recherche d'un emploi en tant que développeuse Angular. Contactez-moi !
+
 Bonne journée ☀️
