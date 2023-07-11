@@ -7,9 +7,7 @@ Je souhaite intégrer une entreprise en alternance afin de consolider et d'appro
 J'ai fait un stage de fin d'étude début 2023 pour un photographe. J'ai pu mettre en pratique mes compétences en situation concrète puisque j'ai développé une application fonctionnelle en 8 semaines.
 J'aime donner de mon temps et toucher à tout. Par exemple, avant mon entrée en formation, j'ai refait le site WordPress d'un ami qui en avait besoin et c'est comme ça que j'ai mis les pieds dans le développement web.
 
-Je suis __disponible en Haute-Savoie__.
-
-Bonne journée ☀️
+Je suis **disponible en Haute-Savoie**.
 
 Projet OpenClassrooms pendant l'alternance :
 - Créer la page d'accueil d'une agence de voyage
@@ -18,3 +16,5 @@ Projet OpenClassrooms pendant l'alternance :
 - Déboguer et optimisez un site de photographe
 - Créer une application web de location immobilière avec React
 - Développez le back-end d'un site de notation de livres
+
+Bonne journée ☀️
