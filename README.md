@@ -9,7 +9,7 @@ J'aime donner de mon temps et toucher à tout. Par exemple, avant mon entrée en
 
 Je suis **disponible en Haute-Savoie**.
 
-Projet OpenClassrooms pendant l'alternance :
+Projets OpenClassrooms pendant l'alternance :
 - Créer la page d'accueil d'une agence de voyage
 - Créer une page web dynamique avec JavaScript
 - Planifier le développement du site de votre client
