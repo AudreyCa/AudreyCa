@@ -17,4 +17,6 @@ Projets OpenClassrooms pendant l'alternance :
 - Créer une application web de location immobilière avec React
 - Développez le back-end d'un site de notation de livres
 
+Mon portfolio : https://audreyca-developpeuse-web.netlify.app/
+
 Bonne journée ☀️
